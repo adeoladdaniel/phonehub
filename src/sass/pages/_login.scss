@@ -1,0 +1,84 @@
+.img_wrapper{
+    width: 50%;
+    height: 100%;
+    background-image: linear-gradient(to top, #00132e, #0d2a4f, #204273, #325c99, #4577c1);
+    position: fixed;
+    right: 0;
+}
+.logo{
+    width: 15%;
+    padding: 3rem 0rem 5rem 0rem;
+}
+.login_img{
+    padding: 8rem 3rem;
+    width: 100%;
+}
+.input_wrapper{
+    // margin-left: 50%;
+    width: 52%;
+    padding-top: 1%;
+    padding-left: 3%;
+
+b{
+    color: $primary-blue;
+}
+
+hr{
+    border: #f3f3f3 solid 1px;
+    width: 85%;
+    margin: 1rem 0rem;
+}
+h1{
+    padding: 0rem 0rem 3rem;
+}
+}
+
+.g_button{
+    padding: 0.8rem 3.1rem;
+    margin: 2rem 0rem;
+    background: $primary-white;
+    border: 1px solid #f3f3f3;
+    border-radius: 5px;
+
+    img{
+        margin: -12rem 1rem -1rem -3rem;
+        width: 26%;
+        padding: 0px 5px;
+    }
+}
+
+.input_section{
+    padding: 1rem 0rem;
+    input{
+    padding: 1.5rem;
+    width: 87%;
+    border-radius: 3px;
+    outline: none;
+    border: solid 1px #f3f3f3;
+    margin-top: 1rem;
+    box-shadow: #4577c12b 0px 0px 5px 1px;
+    }
+}
+.login_but{
+    width: 50%;
+    padding: 1rem;
+    margin: 2rem 6rem;
+    font-size: 16px;
+    // font-weight: bold;
+    border: none;
+    background: $primary-blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.fp{
+    color: $primary-blue;
+    text-decoration-color:$primary-blue !important ;
+    text-decoration: underline;
+    padding: 2rem 0rem;
+    // text-decoration: none !important;
+}
+
+.dima{
+    padding: 0rem 26rem;
+}
